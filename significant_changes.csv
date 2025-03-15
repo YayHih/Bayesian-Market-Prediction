@@ -1,0 +1,413 @@
+Date,Symbol,Company Name,Sector,Sub-Industry,Founded,Previous Close,New Close,Change (%)
+2024-07-26,MMM,3M,Industrials,Industrial Conglomerates,1902,103.39,127.16,22.99
+2024-11-11,ABBV,AbbVie,Health Care,Biotechnology,2013 (1888),199.5,174.43,-12.57
+2024-06-14,ADBE,Adobe Inc.,Information Technology,Application Software,1982,458.74,525.31,14.51
+2024-12-12,ADBE,Adobe Inc.,Information Technology,Application Software,1982,549.93,474.63,-13.69
+2025-03-13,ADBE,Adobe Inc.,Information Technology,Application Software,1982,438.6,377.84,-13.85
+2024-07-17,AMD,Advanced Micro Devices,Information Technology,Semiconductors,1969,177.55,159.43,-10.21
+2024-10-30,AMD,Advanced Micro Devices,Information Technology,Semiconductors,1969,166.25,148.6,-10.62
+2024-07-15,AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,1981,18.89,17.0,-10.01
+2024-11-01,AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,1981,16.49,14.71,-10.79
+2025-02-28,AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,1981,10.38,11.59,11.66
+2024-08-07,ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2008,130.47,113.01,-13.38
+2025-02-14,ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2008,141.04,161.42,14.45
+2024-05-10,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,1998,102.46,91.19,-11.0
+2024-08-09,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,1998,91.57,101.51,10.86
+2024-11-08,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,1998,104.4,89.37,-14.4
+2025-02-21,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,1998,98.03,76.73,-21.73
+2024-09-11,ALB,Albemarle Corporation,Materials,Specialty Chemicals,1994,78.62,89.3,13.58
+2024-04-26,GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,1998,156.0,171.95,10.22
+2024-11-06,AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,1894,513.95,567.43,10.41
+2024-05-03,AMGN,Amgen,Health Care,Biotechnology,1980,278.39,311.29,11.82
+2025-01-27,APH,Amphenol,Information Technology,Electronic Components,1932,77.19,67.49,-12.57
+2024-05-22,ADI,Analog Devices,Information Technology,Semiconductors,1965,216.64,240.16,10.86
+2024-11-07,APA,APA Corporation,Energy,Oil & Gas Exploration & Production,1954,24.73,21.93,-11.32
+2024-08-02,APO,Apollo Global Management,Financials,Asset Management & Custody Banks,1990,115.97,103.53,-10.73
+2024-07-17,AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,1967,245.84,220.07,-10.48
+2024-10-15,AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,1967,213.89,191.02,-10.69
+2024-05-02,APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,1994,69.75,77.79,11.53
+2024-10-31,APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,1994,69.07,56.83,-17.72
+2024-07-31,ANET,Arista Networks,Information Technology,Communications Equipment,2004,77.86,86.64,11.28
+2025-01-27,ANET,Arista Networks,Information Technology,Communications Equipment,2004,129.17,100.3,-22.35
+2024-08-07,AXON,Axon Enterprise,Industrials,Aerospace & Defense,1993,295.0,349.24,18.39
+2024-11-08,AXON,Axon Enterprise,Industrials,Aerospace & Defense,1993,468.75,603.18,28.68
+2025-02-19,AXON,Axon Enterprise,Industrials,Aerospace & Defense,1993,710.01,593.42,-16.42
+2025-02-26,AXON,Axon Enterprise,Industrials,Aerospace & Defense,1993,496.65,572.4,15.25
+2024-11-06,BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,2017,38.58,42.74,10.78
+2024-05-30,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,1966,71.9,81.55,13.42
+2024-08-29,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,1966,87.79,100.18,14.11
+2025-03-04,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,1966,86.74,75.2,-13.3
+2024-05-01,TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,1976,63.21,73.46,16.22
+2024-07-26,BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,1989 (1887),45.27,50.45,11.44
+2024-11-11,BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,1989 (1887),54.14,59.82,10.49
+2024-06-13,AVGO,Broadcom,Information Technology,Semiconductors,1961,149.55,167.9,12.27
+2024-07-31,AVGO,Broadcom,Information Technology,Semiconductors,1961,143.52,160.68,11.96
+2024-09-06,AVGO,Broadcom,Information Technology,Semiconductors,1961,152.82,137.0,-10.35
+2024-12-13,AVGO,Broadcom,Information Technology,Semiconductors,1961,180.66,224.8,24.43
+2024-12-16,AVGO,Broadcom,Information Technology,Semiconductors,1961,224.8,250.0,11.21
+2025-01-27,AVGO,Broadcom,Information Technology,Semiconductors,1961,244.7,202.13,-17.4
+2024-05-07,BLDR,Builders FirstSource,Industrials,Building Products,1998,200.88,162.62,-19.05
+2024-05-02,CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,1905,72.09,80.93,12.26
+2024-08-01,CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,1905,89.05,102.21,14.78
+2024-10-29,CDNS,Cadence Design Systems,Information Technology,Application Software,1988,252.77,284.45,12.53
+2024-05-31,CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,1973,31.85,35.56,11.65
+2024-11-06,COF,Capital One,Financials,Consumer Finance,1994,166.05,190.97,15.01
+2024-05-01,CDW,CDW,Information Technology,Technology Distributors,1984,241.86,214.61,-11.27
+2024-10-30,CDW,CDW,Information Technology,Technology Distributors,1984,219.9,195.06,-11.3
+2024-11-05,CE,Celanese,Materials,Specialty Chemicals,1918,123.5,91.0,-26.32
+2025-02-19,CE,Celanese,Materials,Specialty Chemicals,1918,69.91,54.91,-21.46
+2025-03-05,CE,Celanese,Materials,Specialty Chemicals,1918,48.21,54.33,12.69
+2024-08-07,CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,1947,228.8,199.96,-12.6
+2024-11-06,CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,1947,188.68,214.2,13.53
+2024-07-16,SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,1971,75.07,67.43,-10.18
+2024-07-26,CHTR,Charter Communications,Communication Services,Cable & Satellite,1993,315.23,367.62,16.62
+2024-11-01,CHTR,Charter Communications,Communication Services,Cable & Satellite,1993,327.61,366.49,11.87
+2024-12-19,CTAS,Cintas,Industrials,Diversified Support Services,1929,204.39,182.79,-10.57
+2024-11-06,CFG,Citizens Financial Group,Financials,Regional Banks,1828,42.22,48.31,14.42
+2025-01-30,CMCSA,Comcast,Communication Services,Cable & Satellite,1963,37.36,33.25,-11.0
+2025-01-10,STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,1945,219.28,181.81,-17.09
+2024-07-31,CEG,Constellation Energy,Utilities,Electric Utilities,1999,168.69,189.8,12.51
+2024-09-20,CEG,Constellation Energy,Utilities,Electric Utilities,1999,208.5,254.98,22.29
+2024-11-04,CEG,Constellation Energy,Utilities,Electric Utilities,1999,258.1,225.95,-12.46
+2025-01-10,CEG,Constellation Energy,Utilities,Electric Utilities,1999,243.84,305.19,25.16
+2025-01-27,CEG,Constellation Energy,Utilities,Electric Utilities,1999,347.44,275.0,-20.85
+2024-08-29,COO,Cooper Companies (The),Health Care,Health Care Supplies,1958,94.54,105.73,11.84
+2024-11-22,CPRT,Copart,Industrials,Diversified Support Services,1982,56.9,62.7,10.19
+2024-07-08,GLW,Corning Inc.,Information Technology,Electronic Components,1851,38.44,43.05,11.99
+2024-06-05,CRWD,CrowdStrike,Information Technology,Systems Software,2011,305.58,342.18,11.98
+2024-07-19,CRWD,CrowdStrike,Information Technology,Systems Software,2011,343.05,304.96,-11.1
+2024-07-22,CRWD,CrowdStrike,Information Technology,Systems Software,2011,304.96,263.91,-13.46
+2024-05-01,CVS,CVS Health,Health Care,Health Care Services,1996,67.71,56.31,-16.84
+2024-11-06,CVS,CVS Health,Health Care,Health Care Services,1996,55.34,61.61,11.33
+2025-02-12,CVS,CVS Health,Health Care,Health Care Services,1996,55.0,63.22,14.95
+2024-12-19,DRI,Darden Restaurants,Consumer Discretionary,Restaurants,1938,159.87,183.44,14.74
+2024-10-30,DVA,DaVita,Health Care,Health Care Services,1979,158.31,141.22,-10.8
+2025-02-14,DVA,DaVita,Health Care,Health Care Services,1979,177.06,157.42,-11.09
+2024-07-31,DAY,Dayforce,Industrials,Human Resource & Employment Services,1992,53.68,59.28,10.43
+2024-05-24,DECK,Deckers Brands,Consumer Discretionary,Footwear,1973,150.77,172.15,14.18
+2024-10-25,DECK,Deckers Brands,Consumer Discretionary,Footwear,1973,152.04,168.11,10.57
+2025-01-31,DECK,Deckers Brands,Consumer Discretionary,Footwear,1973,223.11,177.36,-20.51
+2024-05-15,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",2016,134.12,149.16,11.21
+2024-05-31,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",2016,169.92,139.56,-17.87
+2024-11-27,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",2016,141.74,124.38,-12.25
+2024-07-26,DXCM,Dexcom,Health Care,Health Care Equipment,1999,107.85,64.0,-40.66
+2024-11-06,DFS,Discover Financial,Financials,Consumer Finance,1985,151.85,182.55,20.22
+2024-08-29,DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,1939,123.84,84.03,-32.15
+2024-08-29,DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,1986,94.46,84.79,-10.24
+2024-09-04,DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,1986,81.65,63.56,-22.16
+2024-07-18,DPZ,Domino's,Consumer Discretionary,Restaurants,1960,473.27,409.04,-13.57
+2024-07-18,DHI,D. R. Horton,Consumer Discretionary,Homebuilding,1978,157.51,173.42,10.1
+2025-01-27,ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,1911,368.98,311.55,-15.56
+2025-01-08,EIX,Edison International,Utilities,Electric Utilities,1886,77.38,69.5,-10.18
+2025-01-13,EIX,Edison International,Utilities,Electric Utilities,1886,65.0,57.27,-11.89
+2024-07-25,EW,Edwards Lifesciences,Health Care,Health Care Equipment,1958,86.95,59.7,-31.34
+2025-01-23,EA,Electronic Arts,Communication Services,Interactive Home Entertainment,1982,142.35,118.58,-16.7
+2024-10-17,ELV,Elevance Health,Health Care,Managed Health Care,2014 (1946),496.96,444.35,-10.59
+2024-07-24,ENPH,Enphase Energy,Information Technology,Semiconductor Materials & Equipment,2006,103.64,116.91,12.8
+2024-10-23,ENPH,Enphase Energy,Information Technology,Semiconductor Materials & Equipment,2006,92.23,78.47,-14.92
+2024-11-06,ENPH,Enphase Energy,Information Technology,Semiconductor Materials & Equipment,2006,89.94,74.81,-16.82
+2024-10-31,ETR,Entergy,Utilities,Electric Utilities,1913,67.2,77.39,15.16
+2024-05-09,EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,1993,249.2,181.93,-26.99
+2024-11-07,EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,1993,202.69,232.92,14.91
+2025-02-20,EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,1993,258.11,225.07,-12.8
+2024-05-09,EQIX,Equinix,Real Estate,Data Center REITs,1998,692.71,772.43,11.51
+2024-05-01,EL,EstÃ©e Lauder Companies (The),Consumer Staples,Personal Care Products,1946,146.71,127.37,-13.18
+2024-09-26,EL,EstÃ©e Lauder Companies (The),Consumer Staples,Personal Care Products,1946,91.61,100.78,10.01
+2024-10-31,EL,EstÃ©e Lauder Companies (The),Consumer Staples,Personal Care Products,1946,87.15,68.94,-20.9
+2025-02-04,EL,EstÃ©e Lauder Companies (The),Consumer Staples,Personal Care Products,1946,82.77,69.47,-16.07
+2024-05-03,EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1996,136.09,115.33,-15.25
+2024-08-09,EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1996,117.97,130.01,10.21
+2025-02-07,EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1996,172.57,202.37,17.27
+2024-07-30,FFIV,"F5, Inc.",Information Technology,Communications Equipment,1996,177.59,200.66,12.99
+2024-10-29,FFIV,"F5, Inc.",Information Technology,Communications Equipment,1996,218.36,240.33,10.06
+2025-01-29,FFIV,"F5, Inc.",Information Technology,Communications Equipment,1996,269.72,300.46,11.4
+2024-06-26,FDX,FedEx,Industrials,Air Freight & Logistics,1971,256.38,296.19,15.53
+2024-09-20,FDX,FedEx,Industrials,Air Freight & Logistics,1971,300.39,254.64,-15.23
+2025-02-11,FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,1968,82.66,73.16,-11.49
+2024-05-22,FSLR,First Solar,Information Technology,Semiconductors,1999,212.11,251.75,18.69
+2024-05-24,FSLR,First Solar,Information Technology,Semiconductors,1999,249.81,276.74,10.78
+2024-09-11,FSLR,First Solar,Information Technology,Semiconductors,1999,208.22,239.84,15.19
+2024-11-06,FSLR,First Solar,Information Technology,Semiconductors,1999,215.89,194.02,-10.13
+2025-02-27,FE,FirstEnergy,Utilities,Electric Utilities,1997,43.05,38.54,-10.48
+2024-08-01,FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,1883,58.36,64.34,10.25
+2024-10-30,FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,1883,60.18,66.62,10.7
+2025-02-05,FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,1883,54.04,35.92,-33.53
+2024-07-25,F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,1903,13.67,11.16,-18.36
+2024-08-07,FTNT,Fortinet,Information Technology,Systems Software,2000,55.81,69.93,25.3
+2024-08-21,BEN,Franklin Resources,Financials,Asset Management & Custody Banks,1947,22.62,19.78,-12.56
+2025-01-31,BEN,Franklin Resources,Financials,Asset Management & Custody Banks,1947,20.15,22.24,10.37
+2024-05-01,GRMN,Garmin,Consumer Discretionary,Consumer Electronics,1989,144.47,163.42,13.12
+2024-10-30,GRMN,Garmin,Consumer Discretionary,Consumer Electronics,1989,166.27,204.92,23.25
+2025-02-19,GRMN,Garmin,Consumer Discretionary,Consumer Electronics,1989,214.78,241.93,12.64
+2024-04-30,GEHC,GE HealthCare,Health Care,Health Care Equipment,1994,88.94,76.24,-14.28
+2025-01-27,GEV,GE Vernova,Industrials,Heavy Electrical Equipment,2024,420.49,330.0,-21.52
+2024-05-10,GEN,Gen Digital,Information Technology,Systems Software,1982,20.34,23.46,15.34
+2024-04-18,GPC,Genuine Parts Company,Consumer Discretionary,Distributors,1925,144.07,160.23,11.22
+2024-10-22,GPC,Genuine Parts Company,Consumer Discretionary,Distributors,1925,143.12,113.11,-20.97
+2024-05-01,GPN,Global Payments,Financials,Transaction & Payment Processing Services,2000,122.77,109.06,-11.17
+2024-04-11,GL,Globe Life,Financials,Life & Health Insurance,1900,104.93,49.17,-53.14
+2024-04-12,GL,Globe Life,Financials,Life & Health Insurance,1900,49.17,59.09,20.17
+2024-04-23,GL,Globe Life,Financials,Life & Health Insurance,1900,66.39,75.76,14.11
+2025-02-14,GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,1997,212.54,182.19,-14.28
+2024-11-06,GS,Goldman Sachs,Financials,Investment Banking & Brokerage,1869,526.96,595.98,13.1
+2024-04-24,HAS,Hasbro,Consumer Discretionary,Leisure Products,1923,58.14,65.03,11.85
+2025-02-20,HAS,Hasbro,Consumer Discretionary,Leisure Products,1923,61.14,69.06,12.95
+2024-12-09,HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,1894,174.7,193.65,10.85
+2024-06-05,HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",2015,17.6,19.48,10.68
+2024-12-06,HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",2015,21.65,23.95,10.62
+2025-03-07,HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",2015,17.96,15.81,-11.97
+2025-02-06,HOLX,Hologic,Health Care,Health Care Equipment,1985,72.8,65.45,-10.1
+2024-05-02,HWM,Howmet Aerospace,Industrials,Aerospace & Defense,1888,66.78,77.1,15.45
+2024-07-30,HWM,Howmet Aerospace,Industrials,Aerospace & Defense,1888,82.85,93.81,13.23
+2024-11-06,HWM,Howmet Aerospace,Industrials,Aerospace & Defense,1888,102.16,114.86,12.43
+2024-05-30,HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",1939 (2015),32.8,38.36,16.95
+2024-11-27,HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",1939 (2015),39.1,34.66,-11.36
+2024-04-02,HUM,Humana,Health Care,Managed Health Care,1961,351.45,304.33,-13.41
+2024-07-31,HUM,Humana,Health Care,Managed Health Care,1961,404.52,361.61,-10.61
+2024-10-01,HUM,Humana,Health Care,Managed Health Care,1961,316.74,279.45,-11.77
+2024-10-02,HUM,Humana,Health Care,Managed Health Care,1961,279.45,246.49,-11.79
+2024-11-06,HUM,Humana,Health Care,Managed Health Care,1961,260.6,288.51,10.71
+2024-12-17,HUM,Humana,Health Care,Managed Health Care,1961,260.46,233.89,-10.2
+2024-11-06,HBAN,Huntington Bancshares,Financials,Regional Banks,1866,15.54,17.52,12.74
+2024-05-02,HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,2011,277.06,245.19,-11.5
+2024-10-31,HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,2011,250.49,184.96,-26.16
+2025-02-06,HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,2011,195.58,159.75,-18.32
+2025-03-05,HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,2011,172.3,193.59,12.36
+2025-01-30,IBM,IBM,Information Technology,IT Consulting & Other Services,1911,228.63,258.27,12.96
+2025-02-03,IDXX,Idexx Laboratories,Health Care,Health Care Equipment,1983,422.05,469.04,11.13
+2024-10-29,INCY,Incyte,Health Care,Biotechnology,1991,65.69,73.6,12.04
+2024-08-02,INTC,Intel,Information Technology,Semiconductors,1968,29.05,21.48,-26.06
+2025-02-18,INTC,Intel,Information Technology,Semiconductors,1968,23.6,27.39,16.06
+2025-03-13,INTC,Intel,Information Technology,Semiconductors,1968,20.68,23.7,14.6
+2024-11-06,IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,1958 (1889),99.1,87.57,-11.63
+2024-03-19,IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,1898,34.94,38.77,10.96
+2024-10-31,IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,1898,49.03,55.54,13.28
+2025-02-26,INTU,Intuit,Information Technology,Application Software,1983,555.63,625.51,12.58
+2024-10-18,ISRG,Intuitive Surgical,Health Care,Health Care Equipment,1995,473.73,521.15,10.01
+2024-06-20,JBL,Jabil,Information Technology,Electronic Manufacturing Services,1966,126.23,111.79,-11.44
+2024-09-26,JBL,Jabil,Information Technology,Electronic Manufacturing Services,1966,113.43,126.65,11.65
+2025-02-05,JCI,Johnson Controls,Industrials,Building Products,1885,77.29,86.01,11.28
+2024-11-06,JPM,JPMorgan Chase,Financials,Diversified Banks,2000 (1799 / 1871),221.49,247.06,11.54
+2024-08-05,K,Kellanova,Consumer Staples,Packaged Foods & Meats,1906,62.98,73.2,16.23
+2024-08-06,KVUE,Kenvue,Consumer Staples,Personal Care Products,2022 (Johnson & Johnson spinoff),18.19,20.86,14.68
+2024-11-06,KEY,KeyCorp,Financials,Regional Banks,1825,17.26,19.97,15.7
+2024-08-21,KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,2014 (1939),138.57,157.81,13.88
+2024-06-10,KKR,KKR,Financials,Asset Management & Custody Banks,1976,97.99,108.95,11.18
+2024-10-15,KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,1975/1977 (1997),829.65,707.72,-14.7
+2024-07-17,LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,1980,107.6,96.77,-10.07
+2024-10-15,LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,1980,85.7,76.36,-10.9
+2024-04-04,LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,2016 (1950),101.12,81.53,-19.37
+2024-07-24,LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,2016 (1950),78.62,56.42,-28.24
+2024-10-18,LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,2016 (1950),71.0,78.22,10.17
+2024-12-19,LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,2016 (1950),78.22,62.5,-20.1
+2025-01-30,LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,1988,43.43,48.24,11.08
+2024-11-14,LDOS,Leidos,Industrials,Diversified Support Services,1969,194.4,167.96,-13.6
+2024-04-23,LKQ,LKQ Corporation,Consumer Discretionary,Distributors,1998,48.93,41.65,-14.88
+2024-07-25,LKQ,LKQ Corporation,Consumer Discretionary,Distributors,1998,44.48,38.95,-12.43
+2024-03-22,LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1998,478.84,403.19,-15.8
+2024-12-06,LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1998,344.81,399.6,15.89
+2024-11-06,MTB,M&T Bank,Financials,Regional Banks,1856,193.14,216.56,12.13
+2024-07-31,MTCH,Match Group,Communication Services,Interactive Media & Services,1986,33.69,38.14,13.21
+2024-11-07,MTCH,Match Group,Communication Services,Interactive Media & Services,1986,37.88,31.11,-17.87
+2024-03-26,MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,1889,69.94,77.3,10.52
+2024-08-08,MCK,McKesson Corporation,Health Care,Health Care Distributors,1833,617.51,547.51,-11.34
+2024-11-07,MCK,McKesson Corporation,Health Care,Health Care Distributors,1833,549.31,607.51,10.6
+2024-04-25,META,Meta Platforms,Communication Services,Interactive Media & Services,2004,493.5,441.38,-10.56
+2024-05-10,MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,1945,1290.42,1510.25,17.04
+2024-08-01,MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,1986,42.97,37.29,-13.22
+2024-10-31,MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,1986,41.41,36.87,-10.96
+2025-02-13,MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,1986,34.37,40.37,17.46
+2024-08-02,MCHP,Microchip Technology,Information Technology,Semiconductors,1989,84.37,75.43,-10.6
+2025-03-10,MCHP,Microchip Technology,Information Technology,Semiconductors,1989,59.77,53.45,-10.57
+2024-03-21,MU,Micron Technology,Information Technology,Semiconductors,1978,96.25,109.85,14.13
+2024-09-26,MU,Micron Technology,Information Technology,Semiconductors,1978,95.77,109.88,14.73
+2024-12-19,MU,Micron Technology,Information Technology,Semiconductors,1978,103.9,87.09,-16.18
+2025-01-06,MU,Micron Technology,Information Technology,Semiconductors,1978,89.87,99.26,10.45
+2025-01-27,MU,Micron Technology,Information Technology,Semiconductors,1978,103.19,91.11,-11.71
+2024-05-02,MRNA,Moderna,Health Care,Biotechnology,2010,111.46,125.59,12.68
+2024-05-22,MRNA,Moderna,Health Care,Biotechnology,2010,143.69,163.33,13.67
+2024-06-26,MRNA,Moderna,Health Care,Biotechnology,2010,137.6,122.45,-11.01
+2024-08-01,MRNA,Moderna,Health Care,Biotechnology,2010,119.22,94.17,-21.01
+2024-09-12,MRNA,Moderna,Health Care,Biotechnology,2010,79.51,69.68,-12.36
+2025-01-07,MRNA,Moderna,Health Care,Biotechnology,2010,42.57,47.53,11.65
+2025-01-13,MRNA,Moderna,Health Care,Biotechnology,2010,42.25,35.15,-16.8
+2025-01-23,MRNA,Moderna,Health Care,Biotechnology,2010,38.5,42.39,10.1
+2025-03-05,MRNA,Moderna,Health Care,Biotechnology,2010,30.37,35.21,15.94
+2024-07-26,MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,1878,134.5,160.71,19.49
+2024-10-25,MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,1878,151.87,130.88,-13.82
+2024-07-25,MOH,Molina Healthcare,Health Care,Managed Health Care,1980,288.72,324.17,12.28
+2024-10-17,MOH,Molina Healthcare,Health Care,Managed Health Care,1980,331.0,289.46,-12.55
+2024-10-24,MOH,Molina Healthcare,Health Care,Managed Health Care,1980,275.0,323.59,17.67
+2025-02-06,MOH,Molina Healthcare,Health Care,Managed Health Care,1980,317.01,285.01,-10.09
+2024-07-31,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,781.85,863.09,10.39
+2024-08-08,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,757.04,843.52,11.42
+2024-09-03,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,934.68,838.63,-10.28
+2024-10-31,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,919.81,759.3,-17.45
+2024-11-11,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,761.3,647.31,-14.97
+2025-01-27,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,1997,678.43,600.79,-11.44
+2024-08-08,MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2012 (1935),50.53,45.01,-10.92
+2024-11-06,MS,Morgan Stanley,Financials,Investment Banking & Brokerage,1935,117.81,131.49,11.61
+2024-04-23,MSCI,MSCI,Financials,Financial Exchanges & Data,1969,515.17,446.0,-13.43
+2025-02-28,NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",1992,118.22,99.81,-15.57
+2024-10-18,NFLX,Netflix,Communication Services,Movies & Entertainment,1997,687.65,763.89,11.09
+2024-04-25,NEM,Newmont,Materials,Gold,1921,38.6,43.41,12.46
+2024-10-24,NEM,Newmont,Materials,Gold,1921,57.74,49.25,-14.7
+2024-06-28,NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1964,94.19,75.37,-19.98
+2024-07-26,NSC,Norfolk Southern,Industrials,Rail Transportation,1881/1894 (1980),222.9,247.22,10.91
+2024-05-01,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2011 (1966),18.92,16.08,-15.01
+2024-10-09,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2011 (1966),20.8,23.07,10.91
+2024-11-26,NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,1992,91.87,101.16,10.11
+2025-01-27,NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,1992,112.37,97.49,-13.24
+2025-02-26,NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,1992,102.44,113.33,10.63
+2024-11-06,NUE,Nucor,Materials,Steel,1940,144.61,167.74,15.99
+2024-04-19,NVDA,Nvidia,Information Technology,Semiconductors,1993,84.67,76.2,-10.0
+2024-07-31,NVDA,Nvidia,Information Technology,Semiconductors,1993,103.73,117.02,12.81
+2025-01-27,NVDA,Nvidia,Information Technology,Semiconductors,1993,142.62,118.42,-16.97
+2024-04-24,ODFL,Old Dominion,Industrials,Cargo Ground Transportation,1934,219.28,195.06,-11.05
+2024-11-06,ODFL,Old Dominion,Industrials,Cargo Ground Transportation,1934,207.01,230.18,11.19
+2024-12-09,OMC,Omnicom Group,Communication Services,Advertising,1986,103.42,92.82,-10.25
+2024-07-29,ON,ON Semiconductor,Information Technology,Semiconductors,1999,70.17,78.27,11.54
+2024-06-12,ORCL,Oracle Corporation,Information Technology,Application Software,1977,123.88,140.38,13.32
+2024-09-10,ORCL,Oracle Corporation,Information Technology,Application Software,1977,139.89,155.89,11.44
+2025-01-27,ORCL,Oracle Corporation,Information Technology,Application Software,1977,183.6,158.28,-13.79
+2024-07-23,PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,1905,109.06,97.1,-10.97
+2024-05-07,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,25.21,21.4,-15.11
+2024-08-06,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,24.09,26.59,10.38
+2024-08-08,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,26.32,29.28,11.25
+2024-09-09,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,30.33,34.6,14.08
+2024-11-05,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,41.41,51.13,23.47
+2024-11-15,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,59.18,65.77,11.14
+2025-02-04,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,83.74,103.83,23.99
+2025-02-19,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,124.62,112.06,-10.08
+2025-02-24,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,101.35,90.68,-10.53
+2025-03-06,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,90.13,80.46,-10.73
+2025-03-10,PLTR,Palantir Technologies,Information Technology,Internet Services & Infrastructure,2003,84.91,76.38,-10.05
+2024-03-20,PARA,Paramount Global,Communication Services,Movies & Entertainment,2019 (Paramount Pictures 1912),11.19,12.51,11.8
+2024-04-03,PARA,Paramount Global,Communication Services,Movies & Entertainment,2019 (Paramount Pictures 1912),11.76,13.52,14.97
+2024-04-19,PARA,Paramount Global,Communication Services,Movies & Entertainment,2019 (Paramount Pictures 1912),10.97,12.44,13.4
+2024-05-02,PARA,Paramount Global,Communication Services,Movies & Entertainment,2019 (Paramount Pictures 1912),12.26,13.86,13.05
+2024-08-08,PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,1917,512.5,568.08,10.84
+2024-05-02,PAYC,Paycom,Industrials,Human Resource & Employment Services,1998,186.24,166.72,-10.48
+2024-10-31,PAYC,Paycom,Industrials,Human Resource & Employment Services,1998,172.25,209.03,21.35
+2024-12-18,PAYC,Paycom,Industrials,Human Resource & Employment Services,1998,232.97,209.49,-10.08
+2025-02-04,PYPL,PayPal,Financials,Transaction & Payment Processing Services,1998,89.51,77.72,-13.17
+2025-01-10,PCG,PG&E Corporation,Utilities,Multi-Utilities,1905,19.25,17.17,-10.81
+2024-10-22,PM,Philip Morris International,Consumer Staples,Tobacco,2008 (1847),118.96,131.41,10.47
+2025-02-06,PM,Philip Morris International,Consumer Staples,Tobacco,2008 (1847),130.98,145.32,10.95
+2024-07-25,POOL,Pool Corporation,Consumer Discretionary,Distributors,1993,327.19,359.94,10.01
+2025-01-27,PWR,Quanta Services,Industrials,Construction & Engineering,1997,358.03,292.43,-18.32
+2024-11-06,RF,Regions Financial Corporation,Financials,Regional Banks,1971,23.62,26.31,11.39
+2024-04-26,RMD,ResMed,Health Care,Health Care Equipment,1989,183.42,218.06,18.89
+2024-06-24,RMD,ResMed,Health Care,Health Care Equipment,1989,205.83,182.2,-11.48
+2025-02-10,ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,1903,268.4,302.34,12.65
+2025-01-28,RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1997,236.82,265.25,12.0
+2024-05-30,CRM,Salesforce,Information Technology,Application Software,1999,271.62,218.01,-19.74
+2024-12-04,CRM,Salesforce,Information Technology,Application Software,1999,331.43,367.87,10.99
+2025-02-25,SRE,Sempra,Utilities,Multi-Utilities,1998,87.18,70.64,-18.97
+2024-05-30,NOW,ServiceNow,Information Technology,Systems Software,2003,731.12,643.29,-12.01
+2024-07-25,NOW,ServiceNow,Information Technology,Systems Software,2003,730.87,828.79,13.4
+2025-01-30,NOW,ServiceNow,Information Technology,Systems Software,2003,1143.63,1012.75,-11.44
+2024-05-01,SWKS,Skyworks Solutions,Information Technology,Semiconductors,2002,106.59,90.3,-15.28
+2025-02-06,SWKS,Skyworks Solutions,Information Technology,Semiconductors,2002,87.08,65.6,-24.67
+2024-10-30,SW,Smurfit WestRock,Materials,Paper & Plastic Packaging Products & Materials,1934,44.71,50.07,11.99
+2024-05-01,SBUX,Starbucks,Consumer Discretionary,Restaurants,1971,88.49,74.44,-15.88
+2024-08-13,SBUX,Starbucks,Consumer Discretionary,Restaurants,1971,77.03,95.9,24.5
+2024-11-06,STLD,Steel Dynamics,Materials,Steel,1993,135.65,154.32,13.76
+2024-04-16,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,88.28,97.63,10.6
+2024-04-19,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,92.85,71.36,-23.14
+2024-05-01,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,85.88,73.83,-14.03
+2024-05-15,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,82.24,95.24,15.81
+2024-06-13,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,77.47,87.11,12.44
+2024-08-07,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,61.69,49.27,-20.14
+2024-08-28,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,54.76,44.35,-19.02
+2024-09-26,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,45.81,40.24,-12.17
+2024-10-07,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,41.23,47.74,15.79
+2024-10-30,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,49.12,33.07,-32.68
+2024-10-31,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,33.07,29.11,-11.97
+2024-11-01,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,29.11,26.05,-10.51
+2024-11-06,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,27.7,22.7,-18.05
+2024-11-07,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,22.7,25.48,12.25
+2024-11-14,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,20.33,18.01,-11.41
+2024-11-18,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,18.58,21.54,15.93
+2024-11-19,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,21.54,28.27,31.24
+2024-11-21,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,25.8,29.7,15.12
+2024-11-22,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,29.7,33.15,11.62
+2024-11-25,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,33.15,38.41,15.87
+2024-11-26,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,38.41,34.43,-10.36
+2024-12-02,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,32.64,42.0,28.68
+2025-01-03,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,30.05,33.33,10.92
+2025-01-27,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,33.27,29.07,-12.62
+2025-02-10,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,36.28,42.65,17.56
+2025-02-14,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,42.28,47.91,13.32
+2025-02-18,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,47.91,55.8,16.47
+2025-02-25,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,51.61,45.54,-11.76
+2025-02-26,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,45.54,51.11,12.23
+2025-02-27,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,51.11,42.95,-15.97
+2025-03-03,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,41.46,36.07,-13.0
+2025-03-11,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",1993,36.9,40.84,10.68
+2024-11-06,SYF,Synchrony Financial,Financials,Consumer Finance,2003,56.82,67.51,18.81
+2024-12-05,SNPS,Synopsys,Information Technology,Application Software,1986,588.0,515.29,-12.37
+2025-02-07,TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,1993,183.08,208.77,14.03
+2024-10-25,TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2017,44.47,50.49,13.54
+2024-11-14,TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2017,51.26,57.82,12.8
+2025-02-06,TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2017,73.38,82.2,12.02
+2024-08-21,TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,1902,144.33,159.25,10.34
+2024-11-20,TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,1902,156.0,121.72,-21.97
+2024-04-24,TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,1960,407.06,362.5,-10.95
+2024-10-31,TFX,Teleflex,Health Care,Health Care Equipment,1943,235.22,201.06,-14.52
+2025-02-27,TFX,Teleflex,Health Care,Health Care Equipment,1943,177.63,139.11,-21.69
+2024-07-25,TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,1960,143.54,124.34,-13.38
+2024-10-24,TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,1960,124.43,110.72,-11.02
+2025-03-11,TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,1960,104.97,87.07,-17.05
+2024-04-24,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,144.68,162.13,12.06
+2024-04-29,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,168.29,194.05,15.31
+2024-07-02,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,209.86,231.26,10.2
+2024-07-24,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,246.38,215.99,-12.33
+2024-10-24,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,213.65,260.48,21.92
+2024-11-06,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,251.44,288.53,14.75
+2025-03-10,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,2003,262.67,222.15,-15.43
+2024-06-10,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,1888,582.07,723.28,24.26
+2024-11-22,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,1888,1515.53,1730.0,14.15
+2024-12-04,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,1888,1569.93,1387.92,-11.59
+2024-11-06,TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,1978,61.62,72.64,17.88
+2024-11-06,TFC,Truist Financial,Financials,Diversified Banks,1872,42.32,47.0,11.06
+2024-08-06,UBER,Uber,Industrials,Passenger Ground Transportation,2009,58.48,64.87,10.93
+2024-10-11,UBER,Uber,Industrials,Passenger Ground Transportation,2009,77.92,86.34,10.81
+2024-04-03,ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,1990,519.68,439.98,-15.34
+2024-08-15,ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,1990,329.05,365.8,11.17
+2025-03-14,ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,1990,314.47,357.48,13.68
+2024-04-17,UAL,United Airlines Holdings,Industrials,Passenger Airlines,1967,41.5,48.74,17.45
+2024-10-16,UAL,United Airlines Holdings,Industrials,Passenger Airlines,1967,64.05,72.02,12.44
+2024-07-23,UPS,United Parcel Service,Industrials,Air Freight & Logistics,1907,145.18,127.68,-12.05
+2025-01-30,UPS,United Parcel Service,Industrials,Air Freight & Logistics,1907,133.78,114.9,-14.11
+2024-11-06,URI,United Rentals,Industrials,Trading Companies & Distributors,1997,798.0,880.32,10.32
+2024-07-25,UHS,Universal Health Services,Health Care,Health Care Facilities,1979,185.97,204.99,10.23
+2024-12-19,VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,1989,447.5,396.64,-11.37
+2024-11-07,VTRS,Viatris,Health Care,Pharmaceuticals,1961,11.61,13.18,13.52
+2025-02-27,VTRS,Viatris,Health Care,Pharmaceuticals,1961,11.24,9.53,-15.21
+2024-07-17,VST,Vistra Corp.,Utilities,Electric Utilities,2016,85.87,76.2,-11.26
+2024-07-31,VST,Vistra Corp.,Utilities,Electric Utilities,2016,69.0,79.22,14.81
+2024-09-03,VST,Vistra Corp.,Utilities,Electric Utilities,2016,85.43,75.74,-11.34
+2024-09-20,VST,Vistra Corp.,Utilities,Electric Utilities,2016,92.74,107.88,16.33
+2025-01-27,VST,Vistra Corp.,Utilities,Electric Utilities,2016,191.11,137.08,-28.27
+2025-01-30,VST,Vistra Corp.,Utilities,Electric Utilities,2016,155.21,176.3,13.59
+2025-02-27,VST,Vistra Corp.,Utilities,Electric Utilities,2016,148.19,130.01,-12.27
+2024-04-24,WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,1999 (1869),148.48,163.38,10.04
+2024-06-27,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,15.66,12.19,-22.16
+2024-10-15,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,9.0,10.42,15.78
+2024-12-10,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,8.85,10.42,17.74
+2025-01-10,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,9.22,11.76,27.55
+2025-01-31,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,11.46,10.28,-10.3
+2025-02-18,WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,2014,9.7,11.06,14.02
+2024-09-12,WBD,Warner Bros. Discovery,Communication Services,Broadcasting,2022 (Warner Bros. 1923),6.94,7.66,10.37
+2024-09-13,WBD,Warner Bros. Discovery,Communication Services,Broadcasting,2022 (Warner Bros. 1923),7.66,8.49,10.84
+2024-11-07,WBD,Warner Bros. Discovery,Communication Services,Broadcasting,2022 (Warner Bros. 1923),8.38,9.37,11.81
+2024-12-12,WBD,Warner Bros. Discovery,Communication Services,Broadcasting,2022 (Warner Bros. 1923),10.82,12.49,15.43
+2024-11-01,WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,1958,323.11,387.21,19.84
+2024-11-06,WFC,Wells Fargo,Financials,Diversified Banks,1852,64.07,72.47,13.11
+2024-07-25,WST,West Pharmaceutical Services,Health Care,Health Care Supplies,1923,323.77,277.16,-14.4
+2024-10-24,WST,West Pharmaceutical Services,Health Care,Health Care Supplies,1923,286.44,330.65,15.43
+2025-02-13,WST,West Pharmaceutical Services,Health Care,Health Care Supplies,1923,322.28,199.11,-38.22
+2024-05-24,WDAY,"Workday, Inc.",Information Technology,Application Software,2005,260.9,220.91,-15.33
+2024-08-23,WDAY,"Workday, Inc.",Information Technology,Application Software,2005,231.08,259.95,12.49
+2025-02-14,WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,2002,80.47,88.82,10.38
