@@ -31,6 +31,19 @@ Output Files
 📂 significant_changes.csv – Records notable stock price movements with company details.
 📂 not_found.txt – Lists tickers for which data could not be retrieved.
 
+## HOW TO RUN BNN_CLI.py
+Training:
+Copypython bnn_cli.py train --data stock_news_data.csv --output ./model
+
+Making Predictions:
+Copypython bnn_cli.py predict --model ./model --data new_stock_data.csv
+
+Generating Trading Strategy:
+Copypython bnn_cli.py strategy --predictions predictions.csv --confidence 0.85 --change 1.5
+
+Interactive Analysis:
+Copypython bnn_cli.py analyze --model ./model --data stock_news_data.csv
+
 Example Output
 Sample significant_changes.csv:
 Ticker	Company Name	Date	Open Price	Close Price	% Change
